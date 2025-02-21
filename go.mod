@@ -1,4 +1,4 @@
-module 403-ip-bypass
+module github.com/m4konnen/403-ip-bypass
 
 go 1.23.5
 
